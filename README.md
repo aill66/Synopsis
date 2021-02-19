@@ -8,5 +8,5 @@ Home: http://www.yundreams.cn
 Blog: http://blog.yundreams.cn
 
 
-[![](https://data.jsdelivr.com/v1/package/gh/aill66/aill66/badge)](https://www.jsdelivr.com/package/gh/aill66/aill66)
-[![](https://img.shields.io/github/license/aill66/aill66)](https://github.com/aill66/aill66/blob/master/LICENSE)
+[![](https://data.jsdelivr.com/v1/package/gh/aill66/Synopsis/badge)](https://www.jsdelivr.com/package/gh/aill66/Synopsis)
+[![](https://img.shields.io/github/license/aill66/Synopsis)](https://github.com/aill66/Synopsis/blob/master/LICENSE)
